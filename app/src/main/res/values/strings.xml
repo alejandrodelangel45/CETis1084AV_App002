@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CETis1084AV_App002</string>
+    <string name="op_a"></string>
+    <string name="op_b"></string>
+    <string name="sumar"></string>
+    <string name="restar"></string>
+    <string name="multiplicar"></string>
+    <string name="dividir"></string>
+    <string name="resultado"></string>
+</resources>
